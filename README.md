@@ -7,5 +7,7 @@ The assets are a mix of open source and my own work.
 If you'd like just the game you can find it here:
 https://drive.google.com/file/d/10XdbreOwYzt1rR0Mnw4GgncIQA7E-FjT/view?usp=sharing
 
-Hope you have a wonderful day!
+If you are interested in the code, look under Assets/Scripts
+
+Hope you have a wonderful day! 
 :)
